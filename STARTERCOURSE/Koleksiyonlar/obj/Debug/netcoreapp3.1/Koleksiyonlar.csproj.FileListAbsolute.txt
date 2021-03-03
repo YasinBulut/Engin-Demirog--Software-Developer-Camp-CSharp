@@ -1,0 +1,13 @@
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.exe
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.deps.json
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.runtimeconfig.json
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.runtimeconfig.dev.json
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.dll
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.pdb
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.csprojAssemblyReference.cache
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.AssemblyInfoInputs.cache
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.AssemblyInfo.cs
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.csproj.CoreCompileInputs.cache
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.dll
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.pdb
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.genruntimeconfig.cache

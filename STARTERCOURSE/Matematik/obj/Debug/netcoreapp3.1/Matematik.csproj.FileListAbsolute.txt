@@ -1,0 +1,13 @@
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Matematik\bin\Debug\netcoreapp3.1\Matematik.exe
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Matematik\bin\Debug\netcoreapp3.1\Matematik.deps.json
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Matematik\bin\Debug\netcoreapp3.1\Matematik.runtimeconfig.json
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Matematik\bin\Debug\netcoreapp3.1\Matematik.runtimeconfig.dev.json
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Matematik\bin\Debug\netcoreapp3.1\Matematik.dll
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Matematik\bin\Debug\netcoreapp3.1\Matematik.pdb
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Matematik\obj\Debug\netcoreapp3.1\Matematik.csprojAssemblyReference.cache
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Matematik\obj\Debug\netcoreapp3.1\Matematik.AssemblyInfoInputs.cache
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Matematik\obj\Debug\netcoreapp3.1\Matematik.AssemblyInfo.cs
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Matematik\obj\Debug\netcoreapp3.1\Matematik.csproj.CoreCompileInputs.cache
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Matematik\obj\Debug\netcoreapp3.1\Matematik.dll
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Matematik\obj\Debug\netcoreapp3.1\Matematik.pdb
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Matematik\obj\Debug\netcoreapp3.1\Matematik.genruntimeconfig.cache

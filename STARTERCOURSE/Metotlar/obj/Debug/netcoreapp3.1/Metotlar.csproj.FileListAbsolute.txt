@@ -1,0 +1,13 @@
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.exe
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.deps.json
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.runtimeconfig.json
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.runtimeconfig.dev.json
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.dll
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.pdb
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.csprojAssemblyReference.cache
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.AssemblyInfoInputs.cache
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.AssemblyInfo.cs
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.csproj.CoreCompileInputs.cache
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.dll
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.pdb
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.genruntimeconfig.cache

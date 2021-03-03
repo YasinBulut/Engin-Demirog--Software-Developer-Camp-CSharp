@@ -1,0 +1,13 @@
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\OOP-2\bin\Debug\netcoreapp3.1\OOP2.exe
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\OOP-2\bin\Debug\netcoreapp3.1\OOP2.deps.json
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\OOP-2\bin\Debug\netcoreapp3.1\OOP2.runtimeconfig.json
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\OOP-2\bin\Debug\netcoreapp3.1\OOP2.runtimeconfig.dev.json
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\OOP-2\bin\Debug\netcoreapp3.1\OOP2.dll
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\OOP-2\bin\Debug\netcoreapp3.1\OOP2.pdb
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\OOP-2\obj\Debug\netcoreapp3.1\OOP2.csprojAssemblyReference.cache
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\OOP-2\obj\Debug\netcoreapp3.1\OOP2.AssemblyInfoInputs.cache
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\OOP-2\obj\Debug\netcoreapp3.1\OOP2.AssemblyInfo.cs
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\OOP-2\obj\Debug\netcoreapp3.1\OOP2.csproj.CoreCompileInputs.cache
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\OOP-2\obj\Debug\netcoreapp3.1\OOP2.dll
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\OOP-2\obj\Debug\netcoreapp3.1\OOP2.pdb
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\OOP-2\obj\Debug\netcoreapp3.1\OOP2.genruntimeconfig.cache

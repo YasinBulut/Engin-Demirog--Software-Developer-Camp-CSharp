@@ -1,0 +1,13 @@
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\ClassIntro\bin\Debug\netcoreapp3.1\ClassIntro.exe
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\ClassIntro\bin\Debug\netcoreapp3.1\ClassIntro.deps.json
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\ClassIntro\bin\Debug\netcoreapp3.1\ClassIntro.runtimeconfig.json
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\ClassIntro\bin\Debug\netcoreapp3.1\ClassIntro.runtimeconfig.dev.json
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\ClassIntro\bin\Debug\netcoreapp3.1\ClassIntro.dll
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\ClassIntro\bin\Debug\netcoreapp3.1\ClassIntro.pdb
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\ClassIntro\obj\Debug\netcoreapp3.1\ClassIntro.AssemblyInfoInputs.cache
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\ClassIntro\obj\Debug\netcoreapp3.1\ClassIntro.AssemblyInfo.cs
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\ClassIntro\obj\Debug\netcoreapp3.1\ClassIntro.csproj.CoreCompileInputs.cache
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\ClassIntro\obj\Debug\netcoreapp3.1\ClassIntro.dll
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\ClassIntro\obj\Debug\netcoreapp3.1\ClassIntro.pdb
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\ClassIntro\obj\Debug\netcoreapp3.1\ClassIntro.genruntimeconfig.cache
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\ClassIntro\obj\Debug\netcoreapp3.1\ClassIntro.csprojAssemblyReference.cache

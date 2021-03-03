@@ -1,0 +1,13 @@
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Dögüler\obj\Debug\netcoreapp3.1\Dögüler.csprojAssemblyReference.cache
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Dögüler\obj\Debug\netcoreapp3.1\Dögüler.AssemblyInfoInputs.cache
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Dögüler\obj\Debug\netcoreapp3.1\Dögüler.AssemblyInfo.cs
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Dögüler\obj\Debug\netcoreapp3.1\Dögüler.csproj.CoreCompileInputs.cache
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Dögüler\bin\Debug\netcoreapp3.1\Dögüler.exe
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Dögüler\bin\Debug\netcoreapp3.1\Dögüler.deps.json
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Dögüler\bin\Debug\netcoreapp3.1\Dögüler.runtimeconfig.json
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Dögüler\bin\Debug\netcoreapp3.1\Dögüler.runtimeconfig.dev.json
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Dögüler\bin\Debug\netcoreapp3.1\Dögüler.dll
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Dögüler\bin\Debug\netcoreapp3.1\Dögüler.pdb
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Dögüler\obj\Debug\netcoreapp3.1\Dögüler.dll
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Dögüler\obj\Debug\netcoreapp3.1\Dögüler.pdb
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Dögüler\obj\Debug\netcoreapp3.1\Dögüler.genruntimeconfig.cache

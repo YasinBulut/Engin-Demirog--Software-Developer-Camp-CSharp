@@ -1,0 +1,13 @@
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Baslangic\bin\Debug\netcoreapp3.1\Baslangic.exe
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Baslangic\bin\Debug\netcoreapp3.1\Baslangic.deps.json
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Baslangic\bin\Debug\netcoreapp3.1\Baslangic.runtimeconfig.json
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Baslangic\bin\Debug\netcoreapp3.1\Baslangic.runtimeconfig.dev.json
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Baslangic\bin\Debug\netcoreapp3.1\Baslangic.dll
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Baslangic\bin\Debug\netcoreapp3.1\Baslangic.pdb
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Baslangic\obj\Debug\netcoreapp3.1\Baslangic.csprojAssemblyReference.cache
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Baslangic\obj\Debug\netcoreapp3.1\Baslangic.AssemblyInfoInputs.cache
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Baslangic\obj\Debug\netcoreapp3.1\Baslangic.AssemblyInfo.cs
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Baslangic\obj\Debug\netcoreapp3.1\Baslangic.csproj.CoreCompileInputs.cache
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Baslangic\obj\Debug\netcoreapp3.1\Baslangic.dll
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Baslangic\obj\Debug\netcoreapp3.1\Baslangic.pdb
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\C# YAZILIM KAMPI\1.GUN\Baslangic\obj\Debug\netcoreapp3.1\Baslangic.genruntimeconfig.cache
